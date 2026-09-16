@@ -1,2 +1,4 @@
 KindleMTP.app/
 .omc/
+*.zip
+.DS_Store
